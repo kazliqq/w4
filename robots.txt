@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Allow: /
+
+Sitemap: http://mpo.jmarchini.org/sitemap.xml
